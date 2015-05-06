@@ -10,7 +10,7 @@ end
 def test_average(array)
   print "avg of #{array.inspect}:"
   result = average(array)
-  puts result
+  p result
 end
 
 ## TEST CODE
